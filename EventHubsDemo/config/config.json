@@ -1,0 +1,6 @@
+﻿{
+	"EventHubsNamespace": "codecamphub2-ns",
+	"EventHubsHubName": "codecamphub2",
+	"EventHubsKeyName": "Devices",
+	"EventHubsKey": ""
+}

@@ -1,0 +1,29 @@
+﻿{
+    "name": "EventHubsDemo",
+    "version": "1.0.0",
+    "description": "Demo code for NEWdug CodeCamp 2015",
+    "main": "SendDemo.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ytechie/newdug-codecamp-2015"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jason Young <jason@ytechie.com>",
+    "license": "Apache2",
+    "keywords": [
+        "event",
+        "hubs",
+        "azure",
+        "service",
+        "bus",
+        "Code Camp",
+        "newdug"
+    ],
+    "dependencies": {
+        "q": "^1.1.2",
+        "easy-config": "^0.4.3",
+        "eventhubs-js": "*"
+    }
+}
